@@ -1,6 +1,6 @@
 {
   "name": "webpack-prerender-spa-plugin",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Prerenders static HTML in a single-page application.",
   "main": "index.js",
   "scripts": {
